@@ -147,3 +147,13 @@ This document was written by me, and I have never been managed by me. Humans are
 I can be overly verbose when I write. I need to self-edit more. That’s true in this document. 
 
 
+----
+
+#### Inspiration and references
+- [Noah Levin](https://medium.com/@nlevin/open-sourcing-myself-3b19977cf1b3)
+- [Roy Rapoport](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.g2cf5bbf228_0_62)
+- [Molly White](https://github.com/molly/manager-README)
+- [Aaron Lerch](https://docs.google.com/presentation/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA/edit#slide=id.g2758ba595a_0_25)
+- [Scott Burns](https://docs.google.com/presentation/d/1PE2OmkVykdZYF2QzmJ-ZUHqBAxnnsbnMsd19z3qLWNI/edit#slide=id.g326aa7ae8d_0_178)
+
+
