@@ -25,15 +25,15 @@ I am interested in continually iterating and fine-tuning this guide. Constructiv
 - I love Star Wars, Scully, Stevie Nicks, and Snoopy. Also shitty pop punk. 
 - I swear. 😬 So does our [CEO](https://www.recode.net/2014/12/17/11633872/zendesk-co-founder-mikkel-svane-writes-a-memoir). 😬😬 
 - My favorite social network is Tumblr.
-- I also take pictures of vanity license plates. Someday I’ll make an instagram out of them.
+- I also take pictures of vanity license plates. Someday I’ll make an instagram out of them. Or a blog. Or something. Or not.
 
 ## My job
 
 My main responsibility is making sure you are happy and have everything you need to do your job. I’m here to empower you. Some ways I do that:
 
 - Set context. You gotta know what you’re working on and why you’re working on it. You also need to know the expectations.
-- Provide guidance. Early and often, in a way that is direct--but kind--and as close to the originating situation as possible.
-- Clear the path and provide air cover for you. Gardeners have their attention pulled in a lot of different directions. I’ll help you prioritize what matters to you.
+- Provide guidance. Early and often, in a way that is direct—but kind—and as close to the originating situation as possible.
+- Clear the path and provide air cover for you. Gardeners have their attention pulled in a lot of different directions. I’ll help you prioritize what matters most.
 
 I have some other responsibilities on Garden too. Briefly, those are:
 
@@ -43,10 +43,10 @@ I have some other responsibilities on Garden too. Briefly, those are:
 
 ## What I value
 
-With regards to [Garden](https://garden.zendesk.com), my personal values fall exactly in-line with our company values:
+With regards to [Garden](https://garden.zendesk.com), my personal values fall exactly in-line with the Zendesk company values:
 
 - Focus on relationships. The design system and all the tools and things we do to support it are meant to foster an atmosphere of warm, open collaboration. We rely on the input of our team because everything we make belongs to everyone else. Excellent relationships with our team pave the way for our success.
-- Practice empathy. Not everyone has the same goals as you or me. Always always always strive to understand where someone is coming from before asserting an opinion or making a decision. 
+- Practice empathy. Not everyone has the same goals as you or me. Always always *always* strive to understand where someone is coming from before asserting an opinion or making a decision. 
 - Be humblident. I hire people I believe in. Practice quiet confidence, always be learning, always be open to feedback, and you’ll be just fine. 
 
 For myself, I value:
@@ -62,11 +62,13 @@ As such, I will try my best to make sure that you have those things as well. If 
 
 ## Some personality stuff if you’re into that 🙃
 
-Like everyone, I’m a study in contradictions. I’m definitely an introvert, but I am not shy. I do well at the extreme ends of group sizes: 1-5 people, so that I can have meaningful interactions, or huge groups where I am giving a presentation or workshop. I’ve got a bit of social anxiety, so I get quiet in mid-size groups, and I’m awful at small talk and “networking.”
+Like everyone, I’m a study in contradictions. I’m definitely an introvert, but I am not shy. I do well at the extreme ends of group sizes: 1–5 people, so that I can have meaningful interactions, or huge groups where I am giving a presentation or workshop. I’ve got a bit of social anxiety, so I get quiet in mid-size groups, and I’m awful at small talk and “networking.”
 
-I usually write about something to work it out in my mind. I think language matters, because I’ve seen language cause real damage to people and projects. When we’re clear in our writing, we’re clear on our message. See also: this document. 
+I usually write about something to work it out in my mind. I think language matters. I’ve seen language cause real damage to people and projects, but I've also seen the right words inspire, motivate, and create happiness. When we’re clear in our writing, we’re clear on our message. See also: this document. 
 
-I have a very dry sense of humor, and I can be very sarcastic. At times, this has come off as mean or condescending. I never want people to feel that way, and I am working to make sure I don’t do that. Let me know right away if I mess this up. 
+I have a *very* dry sense of humor, and I'm sarcastic. At times, this has come off as mean or condescending. I never want people to feel that way, and I am working to make sure I don’t do that. Let me know right away if I mess this up. 
+
+I care about this job, and I care about making software that is kind to people. Sometimes, I care too much. 
 
 My top five strengths in Gallup Strengths Finder are shockingly accurate:
 
@@ -97,7 +99,7 @@ I believe in [radical candor](https://www.fastcompany.com/3054668/former-googler
 
 I am a good listener, and I can take on whatever role you need from me. I try to understand all points of view. I can guide when it’s helpful, and get out of the way when it’s not.
 
-I believe we need to feel safe with each other and our team, so that we all feel comfortable making mistakes regularly. Let’s make sure we laugh a lot together to ensure those things.
+I believe we need to feel safe with each other and our team, so that we all feel comfortable making mistakes regularly and publicly. Let’s make sure we laugh a lot together to ensure those things.
 
 Finally, when I give you feedback, please consider it openly and  critique it thoughtfully. That’s the _only_ requirement. If something isn’t feedback, but rather a direction, I’ll be clear about that. 
 
@@ -109,7 +111,7 @@ Also I love getting feedback. Please always feel free to give me direct feedback
 
 In the beginning, we’ll have weekly, 45 minute 1:1s. There’ll be some rigid structure to them in the beginning, but they’ll quickly evolve into whatever works best for you. Weekly? Biweekly? 30m? 60m? In office? Out for a walk? Your call.
 
-We’ll have a running 1:1 document for us to use for agenda and notes. I’ll sometimes have topics to cover with you, and I might ask you to prepare something ahead of a 1:1. For the most part though, I expect that you’ll determine the content our meetings.
+We’ll have a running 1:1 document for us to use for agenda and notes. I’ll sometimes have topics to cover with you, and I might ask you to prepare something ahead of a 1:1. For the most part though, I expect that you’ll determine most of the content our meetings.
 
 I prefer to do one-on-ones in person if possible, so if you need to work from home on a day we're scheduled for a one-on-one and rescheduling is an option, please do so.
 
@@ -117,12 +119,12 @@ I prefer to do one-on-ones in person if possible, so if you need to work from ho
 
 ### My in-office time
 
-I am usually in the office between 10am and 6pm. I’m often in earlier or later, but you can usually count on finding me here during these times. I occasionally work from home on Wednesdays. You’ll know ahead of time if that’ll be the case.
+I am usually in the office between 10am and 5pm. I’m often in earlier or later, but you can usually count on finding me here during these times. Our team works from home on Wednesdays. During your ramp-up period, we’ll both work from the office, and then figure out what makes sense for you going forward. 
 
 ### If you need something
 
-- You are always welcome and encouraged to drop a meeting on my calendar. My calendar is open, and events are almost always visible (there are rare exceptions to this).
-- I occasionally put blocks on my calendar for “focus time.” You can schedule over these blocks.
+- You are always welcome and encouraged to drop a meeting on my calendar. My calendar is open, and events are almost always visible (with some rare exceptions).
+- I occasionally put blocks on my calendar for “focus time.” Try to avoid scheduling over these blocks.
 - If you want or need to talk to me, and my schedule is **not** open, DM me on Slack or text me, and I’ll make sure we talk _that day._
 - You have edit access to every meeting I schedule with you, so if the timing doesn’t work for you, move it to a time that does. 
 - If I’m at my desk, and I have my big headphones on, it *does not* necessarily mean I’m in the zone or expect not to be interrupted (I just like listening to music at work). Feel free to grab my attention (preferably by tapping my desk).
@@ -134,7 +136,7 @@ When I leave the office, I really leave the office. I usually do not bring my wo
 
 I take PTO. I usually delete Slack and email from my phone while on PTO to avoid the temptation of a bored moment. If you need to reach me while I’m on PTO, make sure it can’t wait, and text me.
 
-All this said, I do sometimes work very early or late, or over the weekends. This is not routine--it usually means I’m super into whatever project I’m on. _Outside of emergencies, you are never expected to do the same._ (Are there really design emergencies though?)
+All this said, I do sometimes work very early or late, or over the weekends. This is not routine—it usually means I’m super into whatever project I’m on. _Outside of emergencies, you are never expected to do the same._ (Are there really design emergencies though?)
 
 ## Known bugs
 
