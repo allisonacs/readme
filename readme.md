@@ -2,52 +2,32 @@
 
 ## Wut?
 
-Readmes are the instruction manuals of the internet, and this is a readme for me. I hope it will help you more quickly understand who I am, how I work, and how I will help you. It’s also an exercise for me to better identify and refine my own thoughts and values. 
+Readmes are the instruction manuals of the internet, and this is a readme for me. I hope it will help you more quickly understand who I am, my role, how I work, and how I will help you. It’s also an exercise for me to better identify and refine my own thoughts and values. This document is not about setting expectations for the people that work for or with me, or a replacement for actually getting to know each other. 
 
-### This is… 
- 
-- A work in progress 
-- Just a primer
-- Setting some expectations for working with me
+### Disclaimer
 
-### This is not…  
+I’m a human, not a piece of software. “Updates” happen continually, and—unlike this readme—are not subject to PRs or release notes. Like all documentation, this readme has a tendency to fall behind the current release. 
 
-- Setting expectations for you  
-- A replacement for spending time to actually get to know each other
-- Set in stone
-
-I am interested in continually iterating and fine-tuning this guide. Constructive feedback is always welcome. Call me out if you see discrepancies between this and IRL.
-
-## A little about me
+## Quick start guide
 
 - I live in San Francisco with my wife, Amy, and our dog, Mac. You will hear me talk about them… a lot.
-- I like to rock climb, ride bikes, and cook. You’ll hear me talk about these too… a lot.
+- I like to rock climb, ride bikes, bake sourdough, and cook. You’ll hear me talk about these too… a lot.
 - I love Star Wars, Scully, Stevie Nicks, and Snoopy. Also shitty pop punk. 
 - I swear. 😬 So does our [CEO](https://www.recode.net/2014/12/17/11633872/zendesk-co-founder-mikkel-svane-writes-a-memoir). 😬😬 
 - My favorite social network is Tumblr.
-- I also take pictures of vanity license plates. Someday I’ll make an instagram out of them. Or a blog. Or something. Or not.
+- I also take pictures of vanity license plates. Someday I’ll make an instagram. Or a blog. Or something. Or not.
 
 ## My job
 
-My main responsibility is making sure you are happy and have everything you need to do your job. I’m here to empower you. Some ways I do that:
-
-- Set context. You gotta know what you’re working on and why you’re working on it. You also need to know the expectations.
-- Provide guidance. Early and often, in a way that is direct—but kind—and as close to the originating situation as possible.
-- Clear the path and provide air cover for you. Gardeners have their attention pulled in a lot of different directions. I’ll help you prioritize what matters most.
-
-I have some other responsibilities on Garden too. Briefly, those are:
-
-- Consulting with, critiquing and training other teams on how to best utilize Garden
-- Strategic planning and team growth
-- Designing and documenting components
+As the Design Director for Design Systems at Zendesk, I sit on the senior leadership team and report directly to the VP of Product Design. I oversee the Garden team and lead the Product Design team’s efforts around standardization and quality-setting. I contribute to strategic planning, and advocate for standardization, consistency and accessibility across our entire company.
 
 ## What I value
 
-With regards to [Garden](https://garden.zendesk.com), my personal values fall exactly in-line with the Zendesk company values:
+When it comes to [working with others](https://garden.zendesk.com), my personal values fall exactly in-line with the Zendesk company values:
 
-- Focus on relationships. The design system and all the tools and things we do to support it are meant to foster an atmosphere of warm, open collaboration. We rely on the input of our team because everything we make belongs to everyone else. Excellent relationships with our team pave the way for our success.
-- Practice empathy. Not everyone has the same goals as you or me. Always always *always* strive to understand where someone is coming from before asserting an opinion or making a decision. 
-- Be humblident. I hire people I believe in. Practice quiet confidence, always be learning, always be open to feedback, and you’ll be just fine. 
+- Focus on relationships
+- Practice empathy
+- Be humblident
 
 For myself, I value:
 
@@ -58,17 +38,13 @@ For myself, I value:
 - Honesty and transparency
 - Direct feedback and recognition
 
-As such, I will try my best to make sure that you have those things as well. If you value something else, please let me know, and I’ll try to make sure you have those things too.
+## Who I am
 
-## Some personality stuff if you’re into that 🙃
+I’m a designer to my core. I’m here to make an impact and leave things better than when I arrived. I’m an un-shy introvert, so I do well at the extreme ends of group sizes: 1–5 people, so that I can have meaningful interactions, or huge groups where I am giving a presentation or workshop. I’ve got a bit of social anxiety, so I get quiet in mid-size groups, and I’m awful at small talk and “networking.” I try to overcome my awkwardness with humor. 
 
-Like everyone, I’m a study in contradictions. I’m definitely an introvert, but I am not shy. I do well at the extreme ends of group sizes: 1–5 people, so that I can have meaningful interactions, or huge groups where I am giving a presentation or workshop. I’ve got a bit of social anxiety, so I get quiet in mid-size groups, and I’m awful at small talk and “networking.”
+I’m purpose-driven and idealistic. I see opportunities in almost every challenge. I make things that enable other people to do their jobs better. I care about this job, and I care about making software that is kind to people. Sometimes, I care too much. 
 
-I usually write about something to work it out in my mind. I think language matters. I’ve seen language cause real damage to people and projects, but I've also seen the right words inspire, motivate, and create happiness. When we’re clear in our writing, we’re clear on our message. See also: this document. 
-
-I have a *very* dry sense of humor, and I'm sarcastic. At times, this has come off as mean or condescending. I never want people to feel that way, and I am working to make sure I don’t do that. Let me know right away if I mess this up. 
-
-I care about this job, and I care about making software that is kind to people. Sometimes, I care too much. 
+### Features / strengths
 
 My top five strengths in Gallup Strengths Finder are shockingly accurate:
 
@@ -78,75 +54,75 @@ My top five strengths in Gallup Strengths Finder are shockingly accurate:
 4. [Intellection](https://news.gallup.com/businessjournal/691/intellection.aspx)
 5. [Adaptability](https://news.gallup.com/businessjournal/628/adaptability.aspx)
 
+I’m a hard worker, I have a lot of grit, and I hold myself to very high standards, but I’ve also come to understand the power of asking for help (and a well-timed joke). I go deep on the things I care about. I’m also good at dealing with ambiguity. I can make progress even with unanswered questions, and I’d rather make a decision that needs to be reversed down the line than wait.
+
+### In development / growth areas
+
+Hard work, grit, and high standards are all well and good, but sometimes I take them to the extreme. I have perfectionist tendencies, I’ve been known to take on more than I can do, and just because I know that I can ask for help, doesn’t mean that I actually remember (or allow myself) to actually do it.
+
+I’m also focused on better storytelling and how to connect with new and different audiences.
+
+### Known bugs / things I do that may annoy you
+
+I often joke that I have Opinions with a capital O. As I’ve transitioned from IC to manager, I’ve learned to curb them when appropriate. Slip-ups here look like micromanagement.
+
+I have a *very* dry sense of humor, and I'm sarcastic. At times, this has come off as mean or condescending. I really don’t want you to feel that way. 
+
+### Edge cases / what gains and loses my trust
+
+Be kind. Be fair. Be inclusive. Do what you say you’re going to do, and be transparent. It’s ok to change tacks, and it’s ok to be wrong or mess up. It’s not ok to hide these things, and it’s not ok to double down on bad decisions.
+
+### Some personality framework stuff if you’re into that 🙃
+
 And here are some personality test results. I don’t put much weight into any of these frameworks, but they’re fun and might give you some insights.
 
-- I’m an INFP (“healer”), and more specifically and INFP-T (“mediator”). 
-- I’m a Pisces. 
-- My personality number is 9, but… 
-- I’m an enneagram Type Two (“The Caring, Interpersonal Type”)--or is it Type Eight (“The Challenger”)? 
+- I’m an [INFP (“mediator”)](https://www.16personalities.com/infp-personality), and more specifically and [INFP-T (“turbulent”)](https://www.16personalities.com/articles/assertive-mediator-infp-a-vs-turbulent-mediator-infp-t). 
+- I’m a [Pisces](https://blog.prepscholar.com/pisces-traits). 
+- My numerology personality [number is 9](https://www.yourtarotlife.com/blog/numerology/all-about-personality-number/#personality_number_9), but… 
+- I’m an enneagram Type Two (“The Caring, Interpersonal Type”)—or is it Type Eight (“The Challenger”)? 
 
-If any of this freaks you out, don’t worry. I also believe that, 
-
-> “When it comes to adjusting to personalities, I strongly believe that the person in the more senior position is getting paid, partially, to adjust to the personality styles of the people reporting to them.”  
-> -- [Roy Rapoport](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.g2cf5bbf228_0_89)
-
-
-## Guidance and coaching
-
-Above all, I am here for you, and my goal is help you do and be the best. You are here because I already think you are awesome, and that you know what you’re doing. I will always believe in your positive intentions, and any guidance I give is always given with positive intentions.
-
-I believe in [radical candor](https://www.fastcompany.com/3054668/former-googler-lets-us-in-on-the-surprising-secret-to-being-a-good-boss), and I’ve been trained in how to “Be direct without being an @$$hole” (seriously, that’s the name of the workshop). I will give you guidance based in the [SBI framework](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm). I’ll also do it in a timely manner. If you’d like specific feedback on something, let me know!
-
-I am a good listener, and I can take on whatever role you need from me. I try to understand all points of view. I can guide when it’s helpful, and get out of the way when it’s not.
+## Logistics / communication
 
 I believe we need to feel safe with each other and our team, so that we all feel comfortable making mistakes regularly and publicly. Let’s make sure we laugh a lot together to ensure those things.
 
-Finally, when I give you feedback, please consider it openly and  critique it thoughtfully. That’s the _only_ requirement. If something isn’t feedback, but rather a direction, I’ll be clear about that. 
+My communication style is straight forward and direct. I am a good listener, and I can take on whatever role you need from me. I try to understand all points of view. I can guide when it’s helpful, and get out of the way when it’s not.
 
-Also I love getting feedback. Please always feel free to give me direct feedback, early and often. 
+I’m a visual processor, meaning I learn by seeing things and reading about them. I usually write about something to work it out in my mind. I think language matters. I’ve seen language cause real damage to people and projects, but I've also seen the right words inspire, motivate, and create happiness. When we’re clear in our writing, we’re clear on our message. The downside is that I can be overly verbose. I need to self-edit more. See also: this document. 
 
-### A note on 1:1s
+### Logistics
 
-1:1s are for you, and they’re about you. They are explicitly *not* about status updates (unless you want to update me on status).
+My core working hours are 10am–5pm. I’m often online earlier or later, but I’ll generally be reachable during those times. I try to get out of the house at least once during the day, whether for a run, to take the dog on a walk, or do a quick errand. At Zendesk, we try to maintain meeting free Wednesdays and Friday afternoons. As a director, that’s not always possible for me, but I try to respect it as much as possible for my people.
 
-In the beginning, we’ll have weekly, 45 minute 1:1s. There’ll be some rigid structure to them in the beginning, but they’ll quickly evolve into whatever works best for you. Weekly? Biweekly? 30m? 60m? In office? Out for a walk? Your call.
+#### Pandemic logistics
 
-We’ll have a running 1:1 document for us to use for agenda and notes. I’ll sometimes have topics to cover with you, and I might ask you to prepare something ahead of a 1:1. For the most part though, I expect that you’ll determine most of the content our meetings.
+In my role, meetings come with the territory. Still, we all need time to focus, and focusing during the pandemic is harder than normal times. So, I am trying to set harder boundaries here and cut back on my Zoom time. My goal is to have 20 hours of meetings or less each week.
 
-I prefer to do one-on-ones in person if possible, so if you need to work from home on a day we're scheduled for a one-on-one and rescheduling is an option, please do so.
+#### If you need something
 
-## Logistics
-
-### My in-office time
-
-I am usually in the office between 10am and 5pm. I’m often in earlier or later, but you can usually count on finding me here during these times. Our team works from home on Wednesdays. During your ramp-up period, we’ll both work from the office, and then figure out what makes sense for you going forward. 
-
-### If you need something
-
-- You are always welcome and encouraged to drop a meeting on my calendar. My calendar is open, and events are almost always visible (with some rare exceptions).
+- Slack me first. I’ll answer as soon as possible. If you need something from me ASAP, switch text me instead (this should rarely be true). 
+- You can always drop a meeting on my calendar. My calendar is open, and events are almost always visible (with some rare exceptions).
 - I occasionally put blocks on my calendar for “focus time.” Try to avoid scheduling over these blocks.
-- If you want or need to talk to me, and my schedule is **not** open, DM me on Slack or text me, and I’ll make sure we talk _that day._
-- You have edit access to every meeting I schedule with you, so if the timing doesn’t work for you, move it to a time that does. 
-- If I’m at my desk, and I have my big headphones on, it *does not* necessarily mean I’m in the zone or expect not to be interrupted (I just like listening to music at work). Feel free to grab my attention (preferably by tapping my desk).
-- I am good at telling people when I’m not able to give them time, and am always willing to find another time to help. Just ask, and I’ll answer honestly 🙂
 
-### Evenings, weekends and PTO
+#### Evenings, weekends and PTO
 
-When I leave the office, I really leave the office. I usually do not bring my work computer home, and I do not have notifications on for either Slack or email. Generally, I’ll get back to you first thing the next working day. If you absolutely need to reach me when I’m not in the office, texting me is your best bet. 
+When I’m done working, I’m done working. I do not have notifications on for either Slack or email. If you absolutely need to reach me when I’m not online, texting me is your best bet. 
 
-I take PTO. I usually delete Slack and email from my phone while on PTO to avoid the temptation of a bored moment. If you need to reach me while I’m on PTO, make sure it can’t wait, and text me.
+I take PTO. When I’m off, I usually delete Slack and email to avoid the temptation of a bored moment. If you need to reach me while I’m out, make sure it can’t wait, and text me.
 
 All this said, I do sometimes work very early or late, or over the weekends. This is not routine—it usually means I’m super into whatever project I’m on. _Outside of emergencies, you are never expected to do the same._ (Are there really design emergencies though?)
 
-## Known bugs
+## Submit a bug
 
-I often joke that I have Opinions with a capital O. As I’ve transitioned from IC to manager, I’ve learned to curb them when appropriate. But, this is something I do slip up on, and it might feel like I’m directing you to follow my opinion (aka micromanaging). If I slip into this, call me out _immediately._
+### How I give feedback
 
-Delegation could probably use some work. We’ve been a small, scrappy team for a long time, and I’ve been responsible for the design side. If you want to try something that I’ve been doing, just let me know. 
+I believe in [radical candor](https://www.fastcompany.com/3054668/former-googler-lets-us-in-on-the-surprising-secret-to-being-a-good-boss), and I’ve been trained in how to “Be direct without being an @$$hole” (seriously, that’s the name of the workshop). I will give you guidance based in the [SBI framework](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm). I’ll also do it in a timely manner. If you’d like specific feedback on something, let me know!
 
-This document was written by me, and I have never been managed by me. Humans are notoriously bad about describing themselves; I’m no different. If you think something in here is wrong, just let me know and we’ll work out something closer to reality.
+Above all, I am here for you, and my goal is help you do and be the best. You are here because you know what you’re doing and I already think you are awesome. When I give you feedback, please consider it with an open mind. That’s the _only_ requirement. If something isn’t feedback, but rather a direction, I’ll be clear about that. 
 
-I can be overly verbose when I write. I need to self-edit more. That’s true in this document. 
+### How I receive feedback
+
+I thrive on feedback. I want you to have what you need, so please always feel free to give me direct feedback, early and often. 
+
 
 
 ----
