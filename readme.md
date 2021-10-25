@@ -10,16 +10,16 @@ I’m a human, not a piece of software. “Updates” happen continually, and—
 
 ## Quick start guide
 
-- I live in San Francisco with my wife, Amy, and our dog, Mac. You will hear me talk about them… a lot.
+- I live in San Francisco with my wife, Amy, our daughter, and our dog. You will hear me talk about them… a lot.
 - I like to rock climb, ride bikes, bake sourdough, and cook. You’ll hear me talk about these too… a lot.
 - I love Star Wars, Scully, Stevie Nicks, and Snoopy. Also shitty pop punk. 
 - I swear. 😬 So does our [CEO](https://www.recode.net/2014/12/17/11633872/zendesk-co-founder-mikkel-svane-writes-a-memoir). 😬😬 
-- My favorite social network is Tumblr.
+- My favorite social network is Tumblr and I am not sorry about it.
 - I also take pictures of vanity license plates. Someday I’ll make an instagram. Or a blog. Or something. Or not.
 
 ## My job
 
-As the Design Director for Design Systems at Zendesk, I sit on the senior leadership team and report directly to the VP of Product Design. I oversee the Garden team and lead the Product Design team’s efforts around standardization and quality-setting. I contribute to strategic planning, and advocate for standardization, consistency and accessibility across our entire company.
+As the Director of Design Systems at Zendesk, I sit on the senior leadership team and report directly to the VP of Product Design. I oversee the Garden team and lead the Product Design team’s efforts around standardization and quality-setting. I contribute to strategic planning, and advocate for standardization, consistency and accessibility across our entire company.
 
 ## What I value
 
@@ -66,7 +66,7 @@ I’m also focused on better storytelling and how to connect with new and differ
 
 I often joke that I have Opinions with a capital O. As I’ve transitioned from IC to manager, I’ve learned to curb them when appropriate. Slip-ups here look like micromanagement.
 
-I have a *very* dry sense of humor, and I'm sarcastic. At times, this has come off as mean or condescending. I really don’t want you to feel that way. 
+I have a *very* dry sense of humor, and I'm sarcastic. At times, this has come off as mean or condescending. I really don’t want you to feel that way, but on the off chance that I do, please let me know. 
 
 ### Edge cases / what gains and loses my trust
 
@@ -79,7 +79,7 @@ And here are some personality test results. I don’t put much weight into any o
 - I’m an [INFP (“mediator”)](https://www.16personalities.com/infp-personality), and more specifically and [INFP-T (“turbulent”)](https://www.16personalities.com/articles/assertive-mediator-infp-a-vs-turbulent-mediator-infp-t). 
 - I’m a [Pisces](https://blog.prepscholar.com/pisces-traits). 
 - My numerology personality [number is 9](https://www.yourtarotlife.com/blog/numerology/all-about-personality-number/#personality_number_9), but… 
-- I’m an enneagram Type Two (“The Caring, Interpersonal Type”)—or is it Type Eight (“The Challenger”)? 
+- I’m an enneagram Type Eight (“The Challenger”), and I'm sorry in advance. 
 
 ## Logistics / communication
 
@@ -87,11 +87,13 @@ I believe we need to feel safe with each other and our team, so that we all feel
 
 My communication style is straight forward and direct. I am a good listener, and I can take on whatever role you need from me. I try to understand all points of view. I can guide when it’s helpful, and get out of the way when it’s not.
 
-I’m a visual processor, meaning I learn by seeing things and reading about them. I usually write about something to work it out in my mind. I think language matters. I’ve seen language cause real damage to people and projects, but I've also seen the right words inspire, motivate, and create happiness. When we’re clear in our writing, we’re clear on our message. The downside is that I can be overly verbose. I need to self-edit more. See also: this document. 
+I’m a visual and kinetic processor, meaning I learn by seeing things and reading about them—but to truly internalize them, I need to write it down. I also write when I need to work something out in my mind. I think language matters. I’ve seen language cause real damage to people and projects, but I've also seen the right words inspire, motivate, and create happiness. When we’re clear in our writing, we’re clear on our message. The downside is that I can be overly verbose. I need to self-edit more. See also: this document. 
 
 ### Logistics
 
-My core working hours are 10am–5pm. I’m often online earlier or later, but I’ll generally be reachable during those times. I try to get out of the house at least once during the day, whether for a run, to take the dog on a walk, or do a quick errand. At Zendesk, we try to maintain meeting free Wednesdays and Friday afternoons. As a director, that’s not always possible for me, but I try to respect it as much as possible for my people.
+My core working hours are 10am–5pm. I’m often online earlier or later, but I’ll generally be reachable during those times. I'm attempting to timebox my email and Slack time to one half hour in the morning and one half hour in the evening.  
+
+I try to step away from my desk at least once a day. I used to go on walks, but now I just want to play with my baby. At Zendesk, we try to maintain meeting free Wednesdays and Friday afternoons. As a director, that’s not always possible for me, but I try to respect it as much as possible for my people.
 
 #### Pandemic logistics
 
@@ -99,9 +101,8 @@ In my role, meetings come with the territory. Still, we all need time to focus, 
 
 #### If you need something
 
-- Slack me first. I’ll answer as soon as possible. If you need something from me ASAP, switch text me instead (this should rarely be true). 
-- You can always drop a meeting on my calendar. My calendar is open, and events are almost always visible (with some rare exceptions).
-- I occasionally put blocks on my calendar for “focus time.” Try to avoid scheduling over these blocks.
+- Slack me first. I’ll answer as soon as possible, usually by the end of the day. If you need something from me ASAP, switch text me instead (this should rarely be true). 
+- You can always drop a meeting on my calendar, but be aware that I put blocks on my calendar for “focus time.” Try to avoid scheduling over these blocks, but do let me know if you need to meet and can't find a timeslot.
 
 #### Evenings, weekends and PTO
 
